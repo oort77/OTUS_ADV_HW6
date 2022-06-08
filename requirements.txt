@@ -1,0 +1,11 @@
+pandas-profiling==3.1.0
+
+atom-ml==4.12.0
+
+pymc3==3.11.4
+
+BorutaShap==1.0.16
+
+CatBoost>=0.19.1
+
+jinja2==2.11.3
